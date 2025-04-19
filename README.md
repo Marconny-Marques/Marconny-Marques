@@ -2,7 +2,7 @@
 **Sejam bem-vindos ao meu perfil!**
 > "A informática e as telecomunicações serão para o século XXI o que as rodovias foram para o século XX." – Bill Clinton 🎩🪄
 
-Olá pessoal, permitam que eu me apresente. Me chamo Marconny Marques, sou Analista e Desenvolvedor de Sistemas atualmente estou cursando a minha segunda graduação na área de TI, o curso de Ciência da Computação no Instituto Federal de Brasília. Sou um entusiasta da área de tecnologia, entendo a importância da minha área de atuação e por isso me preocupo em resolver problemas diversos da sociedade por meio do desenvolvimento de aplicações que facilitem suas vidas. Sintam-se livres para explorar meu portfólio e conhecer um pouco mais sobre meu perfil como desenvolvedor.
+Olá pessoal, permitam que eu me apresente. Me chamo Marconny Marques, sou Analista e Desenvolvedor de Sistemas, e atualmente estou cursando a minha segunda graduação na área de TI, o curso de Ciência da Computação no Instituto Federal de Brasília. Sou um entusiasta da área de tecnologia, entendo a importância da minha área de atuação e por isso me preocupo em resolver problemas diversos da sociedade por meio do desenvolvimento de aplicações que facilitem suas vidas. Sintam-se livres para explorar meu portfólio e conhecer um pouco mais sobre meu perfil como desenvolvedor.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marconny-marques-75945528a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marconnymarques18@gmail.com)
